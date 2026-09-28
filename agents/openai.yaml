@@ -1,0 +1,4 @@
+interface:
+  display_name: "Astra Luna Lead"
+  short_description: "Astra leads and Luna executes delegated work"
+  default_prompt: "Use $astra-luna-lead: lead this task with GPT-6 Astra and delegate bounded execution to GPT-6 Luna workers."
